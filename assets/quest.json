@@ -1,0 +1,102 @@
+[
+  {
+    "1": "Con gì thích ăn chuột?",
+    "img1": "assets/chuot.jpg",
+    "2": "Con nào là gia cầm?",
+    "img2": "assets/gah.jpg",
+    "3": "Con vật nào đẻ con?",
+    "img3": "assets/lonh.jpg",
+    "4": "Vật nào không phải là quả?",
+    "img4": "assets/khoaitay.jpg",
+    "5": "Loại quả nào có vị chua?",
+    "img5": "assets/chanh.jpg",
+    "6": "Đồ ăn nào có vị ngọt?",
+    "img6": "assets/matong.jpg",
+    "7": "Số quả nào ít nhất?",
+    "img7": "assets/dao.jpg",
+    "8": "Có tất cả bao nhiêu con chim?",
+    "img8": "assets/math1.jpg",
+    "9": "Là con gì?",
+    "img9": "assets/do1.jpg",
+    "10": "Con gì khác nhất?",
+    "img10": "assets/do2.jpg"
+
+  },
+  {
+    "1": {
+      "A": "Con mèo",
+      "B": "Con chó",
+      "C": "Con gà",
+      "D": "Con bò"
+    },
+    "2": {
+      "A": "Con gà",
+      "B": "Con lợn",
+      "C": "Con voi",
+      "D": "Con ngựa"
+    },
+    "3": {
+      "A": "Con lợn",
+      "B": "Con gà",
+      "C": "Con vịt",
+      "D": "Con cá sấu"
+    },
+    "4": {
+      "A": "Quả Xoài",
+      "B": "Quả Nho",
+      "C": "Khoai Tây",
+      "D": "Cà Chua"
+    },
+    "5": {
+      "A": "Quả Táo",
+      "B": "Quả Chuối",
+      "C": "Quả Chanh",
+      "D": "Quả Dưa Hấu"
+    },
+    "6": {
+      "A": "Mì Ống",
+      "B": "Bánh Mì",
+      "C": "Mật Ong",
+      "D": "Hạt Lạc"
+    },
+    "7": {
+      "A": "2 Quả Táo",
+      "B": "5 Quả Cam",
+      "C": "1 Quả Đào",
+      "D": "3 Quả Bưởi"
+    },
+    "8": {
+      "A": "4 Con Chim",
+      "B": "6 Con Chim",
+      "C": "10 Con Chim",
+      "D": "8 Con Chim"
+    },
+    "9": {
+      "A": "Con lợn",
+      "B": "Con gà",
+      "C": "Con ruồi",
+      "D": "Con cá sấu"
+    },
+    "10": {
+      "A": "Con lợn",
+      "B": "Con chó",
+      "C": "Con gà",
+      "D": "Con gấu"
+    }
+
+
+  },
+  {
+    "1": "Con mèo",
+    "2": "Con gà",
+    "3": "Con lợn",
+    "4": "Khoai Tây",
+    "5": "Quả Chanh",
+    "6": "Mật Ong",
+    "7": "1 Quả Đào",
+    "8": "6 Con Chim",
+    "9": "Con ruồi",
+    "10": "Con gà"
+
+  }
+]
